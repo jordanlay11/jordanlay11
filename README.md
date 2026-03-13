@@ -1,16 +1,14 @@
-### Hi there 👋
+Hi, I'm Jordan Laylor
 
-<!--
-**jordanlay11/jordanlay11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science student at UWI Mona building full-stack web and mobile applications.
 
-Here are some ideas to get you started:
+Tech:
+React | Next.js | React Native | Node.js | PostgreSQL | Firebase
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Projects
+• E-commerce platform
+• Real-time emergency alert system
+• Authentication system
+
+Portfolio:
+https://jordanportfolio-amber.vercel.app/
