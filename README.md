@@ -8,7 +8,4 @@ React | Next.js | React Native | Node.js | PostgreSQL | Firebase
 Projects
 • E-commerce platform
 • Real-time emergency alert system
-• Authentication system
 
-Portfolio:
-https://jordanportfolio-amber.vercel.app/
