@@ -3,7 +3,7 @@ Hi, I'm Jordan Laylor
 Computer Science student at UWI Mona building full-stack web and mobile applications.
 
 Tech:
-React | Next.js | React Native | Node.js | PostgreSQL | Firebase
+React | Next.js | React Native | Node.js | PostgreSQL
 
 Projects
 • E-commerce platform
